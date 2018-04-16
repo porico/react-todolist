@@ -5,7 +5,7 @@ import React from 'react';
 function TodoItem(props) {
   return (
     <li>
-      {props.titles}
+      {props.title}
     </li>
   );
 }
